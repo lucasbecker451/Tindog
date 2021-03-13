@@ -1,1 +1,1 @@
-Tindog is a simple website made to learn HTML, CSS, and Bootstrap.
+Tindog is a mock website made to learn HTML, CSS, and Bootstrap.
