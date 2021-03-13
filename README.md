@@ -1,0 +1,1 @@
+Tindog is a simple website made to learn HTML, CSS, and Bootstrap.
